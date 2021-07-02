@@ -8,6 +8,7 @@ public class QueueMain
 		queue.enQueue(56);
 		queue.enQueue(30);
 		queue.enQueue(70);
+		queue.deQueue();
 		queue.print();
 	}
 }
